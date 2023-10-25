@@ -1,10 +1,13 @@
 # Commander X16 Hello World (for macOS)
+
 This is a tutorial project to get started with programming for the [Commander X16](https://www.commanderx16.com/) 8-bit computer, made by [The 8-bit Guy](https://www.youtube.com/channel/UC8uT9cgJorJPWu7ITLGo9Ww).
+
 The project is a simple test of output and input of text, using C and assembly simultaneously and simply making sure your toolchain is set-up correctly.
 
 It's based on the Windows template from [nb-programmer](https://github.com/nb-programmer/x16-hello)
 
 ## Setup
+
 You need to install a toolchain to compile / assemble the project, and an emulator (or a real X16 system!) to execute it.
 
 ### macOS
@@ -23,7 +26,7 @@ Open a Console window to this folder, and type `make`. It will compile the proje
 
 ## Running
 
-You can run `make run` to launch the emulator, load, and launch the ROM on startup.
+You can use `make run` to launch the emulator, load, and launch the ROM on startup.
 
 If you want to run it manually, launch the emulator as so:
 ```
