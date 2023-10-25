@@ -20,7 +20,7 @@ int main() {
     }
 
     /* Calling assembly routines from C */
-    printf("Calling an assembly routine...\n");
+    printf("Calling an assembly routine ...\n");
 
     //Functions are prefixed with one underscore when compiled.
     //In the assembly, this routine will be called "_helloasm"

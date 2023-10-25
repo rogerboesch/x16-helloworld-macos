@@ -28,11 +28,14 @@ EFLAGS		=
 #Uncomment to launch the PRG on start-up
 EFLAGS		+= -run
 
+#Uncomment to position the window at right (needs patch of emulator)
+#EFLAGS		+= -position right
+
 #Uncomment to attach the SD card image specified above
 #EFLAGS		+= -sdcard $(SDCARD)
 
 #Uncomment to enable the emulator's debugger functionality
-#EFLAGS		+= -debug
+EFLAGS		+= -debug
 
 #Set to true if the emulator should run from the build directory.
 #Otherwise, it will run from current directory (in case you want to mount an SD card image over there)
