@@ -29,7 +29,7 @@ EFLAGS		=
 EFLAGS		+= -run
 
 #Uncomment to position the window at right (needs patch of emulator)
-#EFLAGS		+= -position right
+EFLAGS		+= -position right
 
 #Uncomment to attach the SD card image specified above
 #EFLAGS		+= -sdcard $(SDCARD)
