@@ -37,6 +37,6 @@ Omit the `-run` argument to load it into memory and not execute.
 # References
 
 - [SlithyMatt](https://github.com/SlithyMatt)'s repositories for X16 tutorials (some of my code is based on this! Thank you!)
-- [GameBlaBla](https://github.com/gameblabla)'s repositories for some VERA code
-- [The Official Commander X16 documentation](https://github.com/commanderx16/x16-docs) Check this out if you're serious about learning everything about this amazing system
-- [C64 Wiki page](https://www.c64-wiki.com/wiki/Commander_X16) on the Commander X16, a very comprehensive description on the system
+- [GameBlaBla](https://github.com/gameblabla)'s repositories for some VERA code (some of my code is based on this! Thank you!)
+- [The Official Commander X16 documentation](https://github.com/commanderx16/x16-docs)
+- [C64 Wiki page](https://www.c64-wiki.com/wiki/Commander_X16) 
